@@ -1,4 +1,5 @@
 //In this we are having two classes make separate file for both classes
+//I have used Oracle DB so i added a Oracle driver jar file in my IDE, add jar according to your DB
 
 //first class is having connection and calling methods
 
